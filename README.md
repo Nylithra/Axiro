@@ -43,7 +43,7 @@ Kullanıcıların sunucular oluşturabileceği, arkadaş ekleyebileceği ve kana
 
 ## 🌍 Hedefimiz
 
-Laxord, tamamen yerli bir girişim olarak **kullanıcılarına özgür, güvenli ve modern bir iletişim deneyimi** sunmayı hedefler.  
+Axiro, tamamen yerli bir girişim olarak **kullanıcılarına özgür, güvenli ve modern bir iletişim deneyimi** sunmayı hedefler.  
 Amacımız, bireylerin ve toplulukların kolayca iletişim kurabileceği, güvenilir ve kullanıcı dostu bir ortam yaratmaktır.  
 
 ---
